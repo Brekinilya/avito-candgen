@@ -1,0 +1,14 @@
+# Python 3.12; torch с CUDA ставится отдельно:
+#   pip install torch==2.6.0 --index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0
+transformers==5.17.0
+tokenizers==0.23.2
+safetensors==0.8.0
+huggingface_hub==1.33.0
+polars==1.44.2
+pyarrow==25.0.1
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+lightgbm==4.7.0
+PyStemmer==3.1.0
